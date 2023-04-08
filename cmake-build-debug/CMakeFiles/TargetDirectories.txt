@@ -1,0 +1,3 @@
+/Users/cattarde/Documents/Parallel_Processing_Roger_Chen/Assignment3/HW/cmake-build-debug/CMakeFiles/HW.dir
+/Users/cattarde/Documents/Parallel_Processing_Roger_Chen/Assignment3/HW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cattarde/Documents/Parallel_Processing_Roger_Chen/Assignment3/HW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
